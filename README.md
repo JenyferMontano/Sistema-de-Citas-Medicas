@@ -1,2 +1,9 @@
-# Sistema-de-Citas-Medicas
-La Clínica de la Universidad Nacional desea crear un sistema de  administración de citas médicas para llevar un control tanto de sus pacientes, como de las citas de  los mismos
+
+# Sistema de Citas Médicas
+
+Este proyecto está diseñado para gestionar el sistema de citas médicas de la Clínica de la Universidad Nacional. Permite llevar el control de los pacientes y sus citas, facilitando la administración eficiente de las consultas médicas.
+
+## Tecnologías utilizadas:
+
+-Java  
+-NetBeans
