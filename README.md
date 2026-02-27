@@ -7,3 +7,7 @@ Este proyecto está diseñado para gestionar el sistema de citas médicas de la 
 
 -Java  
 -NetBeans
+
+##  Notas
+Este proyecto fue desarrollado como parte del curso de Programación II, I Ciclo 2024
+
